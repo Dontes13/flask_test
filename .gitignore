@@ -1,0 +1,7 @@
+.guides/
+.codio
+.settings
+__pycache__/
+*.pyc
+instance/
+*.db
